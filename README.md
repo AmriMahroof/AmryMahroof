@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px" alt="Coding Animation"/>
 </div>
 
-<h1 align="center">🚀 Hey, I'm Amri Mahroof! 👨‍💻</h1>
+<h1 align="center">🚀 Hey, I'm Amry Mahroof! 👨‍💻</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | Dedicated to Building Scalable, Real-World Solutions</h3>
 
 <p align="center">
